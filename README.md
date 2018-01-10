@@ -1,2 +1,3 @@
 # Johnny-B
-The Man
+
+"I am Johnny Bravo, the one-man army!"
